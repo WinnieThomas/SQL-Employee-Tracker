@@ -35,6 +35,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ![Image](https://github.com/WinnieThomas/SQL-Employee-Tracker/blob/main/Assets/screenshot1.png?raw=true)
 ![Image2](https://github.com/WinnieThomas/SQL-Employee-Tracker/blob/main/Assets/screenshot2.png?raw=true)
+![Image](https://github.com/WinnieThomas/SQL-Employee-Tracker/blob/main/Assets/screenshot3.png?raw=true)
 
 ## Link to walkthrough vedio
 ![VedioLinl](https://user-images.githubusercontent.com/111534031/222285793-fd858418-05e0-402b-b87c-e01173d4edc0.mp4)
