@@ -105,7 +105,7 @@ const add_employee = () =>{
         const managerQuestion = AddEmployeeQuestions[3];
         results.forEach((employee)=>{
             managerQuestion.choices.push({
-                value:employee.is,
+                value:employee.id,
                 name:employee.name
             });
         });
